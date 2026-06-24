@@ -4,6 +4,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(display-line-numbers-type 'relative)
+ '(inhibit-startup-screen t)
  '(package-selected-packages '(gruber-darker-theme)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
